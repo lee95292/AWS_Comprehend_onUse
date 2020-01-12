@@ -1,6 +1,7 @@
 # 개요
 
 AWS Comprehend기초 예제를 사용하기 위한 간편 가이드입니다.
+
 AWS Comprehend 공식문서 의 [API docs](https://docs.aws.amazon.com/comprehend/latest/dg/get-started-api.html)를 참고하여 작성했습니다.
 
 ## 지원하는 언어
@@ -19,7 +20,7 @@ AWS Comprehend 공식문서 의 [API docs](https://docs.aws.amazon.com/comprehen
 
 - **AWS CLI 설치**
 
-  추후보강
+  이하 추후보강
 
 ---
 
