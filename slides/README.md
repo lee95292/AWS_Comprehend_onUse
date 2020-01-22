@@ -8,4 +8,4 @@
 
 - 뉴스 API를 통해 가져온 뉴스 Comprehend 서비스를 통해 분류하기
 
-  추후 보강
+  ![img](../img/web1.PNG)
