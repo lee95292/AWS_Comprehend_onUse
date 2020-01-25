@@ -1,7 +1,11 @@
+const news_apikey = "99ef42fc4cf0491c928597b08fd47354";
+
 const xhr = new XMLHttpRequest();
 
 const newsUrl =
-  "https://newsapi.org/v2/top-headlines?sortBy=publishedAt&country=us&apiKey=99ef42fc4cf0491c928597b08fd47354";
+  "https://newsapi.org/v2/top-headlines?sortBy=publishedAt&country=us&apiKey=" +
+  news_apikey;
+
 const lambdaUrl =
   "https://78oq0tcw6j.execute-api.us-east-1.amazonaws.com/ss/Comprehend_API";
 let articles;
