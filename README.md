@@ -10,9 +10,7 @@ AWS Comprehend 공식문서 의 [API docs](https://docs.aws.amazon.com/comprehen
 
 ![img](./img/lang.PNG)
 
-## AWS Comprehend 사용방법
-
-### 선결조건
+## Prerequisite
 
 - **AWS IAM 등록**
 
@@ -20,12 +18,12 @@ AWS Comprehend 공식문서 의 [API docs](https://docs.aws.amazon.com/comprehen
 
 - **AWS CLI 설치**
 
-  이하 추후보강
 
----
+### Results 
+- Hello Comprehend!
 
-### 프로그래밍 언어에서 API 사용하기
+  AWS Comprehend를 사용하기 위한 환경을 설정하고, 기초 예제를 수행해봅니다.
 
----
+- 뉴스 API를 통해 가져온 뉴스 Comprehend 서비스를 통해 기사 내용을 요약해봅시다
 
-### AWS CLI에서 API 사용하기
+  ![img](./img/web1.PNG)
